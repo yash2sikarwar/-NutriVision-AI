@@ -1,0 +1,1532 @@
+{
+  "chicken breast": {
+    "name": "Chicken Breast",
+    "calories_per_100g": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 74,
+    "category": "Proteins",
+    "portionSizes": { "Small": 120, "Medium": 220, "Large": 350 },
+    "recommendations": [
+      "Excellent source of lean protein for muscle building.",
+      "Very low in fat; keep portion sizes in check for weight control.",
+      "Pair with fresh steamed vegetables for a complete balanced meal."
+    ]
+  },
+  "chicken leg": {
+    "name": "Chicken Leg",
+    "calories_per_100g": 174,
+    "protein": 26,
+    "carbs": 0,
+    "fat": 8,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 82,
+    "category": "Proteins",
+    "portionSizes": { "Small": 120, "Medium": 220, "Large": 350 },
+    "recommendations": [
+      "Good protein source, slightly higher in fat than chicken breast.",
+      "Moderate in saturated fats. Enjoy roasted or baked.",
+      "Remove skin before eating to decrease overall fat content."
+    ]
+  },
+  "grilled chicken": {
+    "name": "Grilled Chicken",
+    "calories_per_100g": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 180,
+    "category": "Proteins",
+    "portionSizes": { "Small": 120, "Medium": 220, "Large": 350 },
+    "recommendations": [
+      "Excellent high-protein meal suitable for muscle growth and weight management.",
+      "Very low carb and low fat content.",
+      "Pair with a side salad to add micronutrients and fiber."
+    ]
+  },
+  "tandoori chicken": {
+    "name": "Tandoori Chicken",
+    "calories_per_100g": 180,
+    "protein": 28,
+    "carbs": 2.5,
+    "fat": 6.8,
+    "fiber": 0.5,
+    "sugar": 0.5,
+    "sodium": 420,
+    "category": "Proteins",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Flavourful high-protein food marinated in yogurt and spices.",
+      "Baking in tandoor keeps the added oils to a minimum.",
+      "A great option for lean cutting diets."
+    ]
+  },
+  "chicken curry": {
+    "name": "Chicken Curry",
+    "calories_per_100g": 155,
+    "protein": 18,
+    "carbs": 4.5,
+    "fat": 7.5,
+    "fiber": 1.2,
+    "sugar": 1.5,
+    "sodium": 390,
+    "category": "Proteins",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Moderate in protein with rich Indian curry spices.",
+      "Watch portion sizes due to the oil and cream in gravies.",
+      "Pair with roti rather than butter naan to save calories."
+    ]
+  },
+  "egg": {
+    "name": "Boiled Egg",
+    "calories_per_100g": 155,
+    "protein": 13,
+    "carbs": 1.1,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 1.1,
+    "sodium": 124,
+    "category": "Proteins",
+    "portionSizes": { "Small": 50, "Medium": 100, "Large": 150 },
+    "recommendations": [
+      "Excellent whole protein profile containing healthy fats.",
+      "Loaded with vitamins D, B12, and healthy choline.",
+      "Good for breakfast or post-workout recovery."
+    ]
+  },
+  "egg white": {
+    "name": "Egg White",
+    "calories_per_100g": 52,
+    "protein": 11,
+    "carbs": 0.7,
+    "fat": 0.2,
+    "fiber": 0,
+    "sugar": 0.7,
+    "sodium": 166,
+    "category": "Proteins",
+    "portionSizes": { "Small": 60, "Medium": 120, "Large": 200 },
+    "recommendations": [
+      "Pure source of high-quality protein with zero fat.",
+      "Excellent for strict low-calorie high-protein diets.",
+      "Season with fresh herbs and pepper for flavor."
+    ]
+  },
+  "omelette": {
+    "name": "Omelette",
+    "calories_per_100g": 154,
+    "protein": 11,
+    "carbs": 1.5,
+    "fat": 12,
+    "fiber": 0.2,
+    "sugar": 0.5,
+    "sodium": 280,
+    "category": "Proteins",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Healthy breakfast dish rich in proteins.",
+      "Limit oil/butter during pan frying to reduce fats.",
+      "Add vegetables (onions, capsicum, spinach) to increase fiber."
+    ]
+  },
+  "fish": {
+    "name": "White Fish Fillet",
+    "calories_per_100g": 110,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 2.5,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 75,
+    "category": "Proteins",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Highly digestible lean protein source.",
+      "Low in calories and very low in saturated fats.",
+      "Steam, bake, or grill rather than batter-fry."
+    ]
+  },
+  "salmon": {
+    "name": "Salmon Fillet",
+    "calories_per_100g": 208,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 13,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 59,
+    "category": "Proteins",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Excellent source of heart-healthy Omega-3 fatty acids.",
+      "Promotes joint health, cognitive function, and muscle recovery.",
+      "Rich in high-quality proteins."
+    ]
+  },
+  "tuna": {
+    "name": "Canned Tuna in Water",
+    "calories_per_100g": 116,
+    "protein": 26,
+    "carbs": 0,
+    "fat": 0.8,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 330,
+    "category": "Proteins",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 220 },
+    "recommendations": [
+      "Convenient, high-protein lean food.",
+      "Extremely low fat, perfect for lean phase diets.",
+      "Rinse canned tuna to lower sodium content."
+    ]
+  },
+  "prawns": {
+    "name": "Prawns / Shrimp",
+    "calories_per_100g": 99,
+    "protein": 24,
+    "carbs": 0.2,
+    "fat": 0.3,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 110,
+    "category": "Proteins",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 260 },
+    "recommendations": [
+      "Very low-calorie food packed with protein and selenium.",
+      "Avoid creamy garlic butter sauces to keep fat counts low.",
+      "Great choice for lean salads and stir-fries."
+    ]
+  },
+  "paneer": {
+    "name": "Paneer (Cottage Cheese)",
+    "calories_per_100g": 265,
+    "protein": 18,
+    "carbs": 2.0,
+    "fat": 20,
+    "fiber": 0,
+    "sugar": 1.5,
+    "sodium": 18,
+    "category": "Proteins",
+    "portionSizes": { "Small": 100, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Rich in calcium and casein protein for vegetarian diets.",
+      "Slightly calorie-dense due to fat content. Watch portions.",
+      "Opt for low-fat paneer varieties if counting calories."
+    ]
+  },
+  "tofu": {
+    "name": "Firm Tofu",
+    "calories_per_100g": 76,
+    "protein": 8,
+    "carbs": 1.9,
+    "fat": 4.8,
+    "fiber": 0.3,
+    "sugar": 0.5,
+    "sodium": 7,
+    "category": "Proteins",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Excellent plant-based protein source containing all essential amino acids.",
+      "Low in calories and high in calcium.",
+      "Highly versatile for healthy vegan stir-fries."
+    ]
+  },
+  "soy chunks": {
+    "name": "Soy Chunks (Soya)",
+    "calories_per_100g": 345,
+    "protein": 52,
+    "carbs": 33,
+    "fat": 0.5,
+    "fiber": 13,
+    "sugar": 5.0,
+    "sodium": 20,
+    "category": "Proteins",
+    "portionSizes": { "Small": 50, "Medium": 100, "Large": 150 },
+    "recommendations": [
+      "Massive protein content (52g per 100g dry).",
+      "Loaded with dietary fiber and completely fat-free.",
+      "Soak and squeeze out water thoroughly before cooking."
+    ]
+  },
+  "lentils": {
+    "name": "Cooked Lentils (Dal)",
+    "calories_per_100g": 116,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 0.4,
+    "fiber": 8,
+    "sugar": 1.8,
+    "sodium": 2,
+    "category": "Proteins",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 320 },
+    "recommendations": [
+      "Excellent plant-based protein and dietary fiber source.",
+      "Promotes gut health and matches well with rice or grains.",
+      "Very low fat and low glycemic index carb source."
+    ]
+  },
+  "chickpeas": {
+    "name": "Chickpeas (Garbanzo Beans)",
+    "calories_per_100g": 164,
+    "protein": 8.9,
+    "carbs": 27,
+    "fat": 2.6,
+    "fiber": 7.6,
+    "sugar": 4.8,
+    "sodium": 24,
+    "category": "Proteins",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Provides sustained slow-release energy from complex carbs.",
+      "High in soluble fiber, helping to control blood sugar.",
+      "Great for healthy salads, hummus, or Indian curry."
+    ]
+  },
+  "kidney beans": {
+    "name": "Kidney Beans (Rajma)",
+    "calories_per_100g": 127,
+    "protein": 8.7,
+    "carbs": 22.8,
+    "fat": 0.5,
+    "fiber": 6.4,
+    "sugar": 1.2,
+    "sodium": 2,
+    "category": "Proteins",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 320 },
+    "recommendations": [
+      "High in proteins, potassium, and complex dietary fibers.",
+      "Pairs wonderfully with rice to create a complete protein amino profile.",
+      "Helps maintain weight management and heart safety."
+    ]
+  },
+  "dal tadka": {
+    "name": "Dal Tadka",
+    "calories_per_100g": 112,
+    "protein": 6.2,
+    "carbs": 14.8,
+    "fat": 3.4,
+    "fiber": 4.2,
+    "sugar": 0.5,
+    "sodium": 310,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Healthy lentil soup cooked with turmeric and tempered with cumin spices.",
+      "Ghee/oil tempering adds fats; consume mindfully.",
+      "High in fiber and vegetarian proteins."
+    ]
+  },
+  "dal fry": {
+    "name": "Dal Fry",
+    "calories_per_100g": 120,
+    "protein": 6.0,
+    "carbs": 15.2,
+    "fat": 4.2,
+    "fiber": 4.0,
+    "sugar": 0.6,
+    "sodium": 340,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Comforting Indian lentil dish slightly higher in fats due to pan frying.",
+      "Provides steady carbs and gut-friendly fiber.",
+      "Limit oil toppings for weight loss goals."
+    ]
+  },
+  "rajma": {
+    "name": "Rajma Masala (Kidney Bean Gravy)",
+    "calories_per_100g": 135,
+    "protein": 6.8,
+    "carbs": 18.5,
+    "fat": 4.5,
+    "fiber": 5.2,
+    "sugar": 1.5,
+    "sodium": 380,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Comforting kidney bean curry loaded with plant protein.",
+      "Excellent source of iron, potassium, and fiber.",
+      "Highly recommended for heart health and clean energy."
+    ]
+  },
+  "chole": {
+    "name": "Chole Masala (Chickpea Curry)",
+    "calories_per_100g": 158,
+    "protein": 7.2,
+    "carbs": 21.0,
+    "fat": 6.2,
+    "fiber": 5.8,
+    "sugar": 2.2,
+    "sodium": 410,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Spicy Indian chickpea gravy providing dense complex carbohydrates.",
+      "Watch the portion sizes as the gravy is oil-based.",
+      "Serve with whole-wheat roti or plain rice rather than deep-fried bhature."
+    ]
+  },
+  "biryani": {
+    "name": "Chicken Biryani",
+    "calories_per_100g": 165,
+    "protein": 8.5,
+    "carbs": 21.0,
+    "fat": 5.4,
+    "fiber": 1.2,
+    "sugar": 0.8,
+    "sodium": 380,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 200, "Medium": 350, "Large": 500 },
+    "recommendations": [
+      "Aromatic, spiced rice dish containing high-quality proteins.",
+      "Calorie-dense; manage portion sizes carefully.",
+      "Pair with a side raita (yogurt dip) to balance digestion."
+    ]
+  },
+  "pulao": {
+    "name": "Vegetable Pulao",
+    "calories_per_100g": 142,
+    "protein": 3.2,
+    "carbs": 26.5,
+    "fat": 2.8,
+    "fiber": 2.1,
+    "sugar": 1.2,
+    "sodium": 290,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Mildly spiced basmati rice dish with loaded vegetables.",
+      "Excellent quick energy source.",
+      "Substitute white rice with brown rice for a higher fiber count."
+    ]
+  },
+  "jeera rice": {
+    "name": "Jeera Rice",
+    "calories_per_100g": 140,
+    "protein": 2.8,
+    "carbs": 28.5,
+    "fat": 1.8,
+    "fiber": 0.8,
+    "sugar": 0.1,
+    "sodium": 220,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 350 },
+    "recommendations": [
+      "Basmati rice flavored with ghee and cumin seeds.",
+      "Cumin seeds aid digestion.",
+      "Slightly higher calories than plain rice due to tempering fats."
+    ]
+  },
+  "plain rice": {
+    "name": "Steamed White Rice",
+    "calories_per_100g": 130,
+    "protein": 2.7,
+    "carbs": 28.0,
+    "fat": 0.3,
+    "fiber": 0.4,
+    "sugar": 0.1,
+    "sodium": 1,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 300 },
+    "recommendations": [
+      "Clean source of easily digestible carbohydrates.",
+      "Virtually fat-free; excellent for energy loading.",
+      "Pair with rich protein dals and legumes."
+    ]
+  },
+  "roti": {
+    "name": "Whole Wheat Roti",
+    "calories_per_100g": 264,
+    "protein": 9.0,
+    "carbs": 53.0,
+    "fat": 1.5,
+    "fiber": 9.0,
+    "sugar": 1.2,
+    "sodium": 300,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 40, "Medium": 80, "Large": 120 },
+    "recommendations": [
+      "Outstanding staple carb containing high dietary fiber.",
+      "Low fat when cooked dry without ghee oil brush.",
+      "Highly recommended for active energy days."
+    ]
+  },
+  "naan": {
+    "name": "Butter Naan",
+    "calories_per_100g": 310,
+    "protein": 8.5,
+    "carbs": 51.2,
+    "fat": 8.2,
+    "fiber": 2.0,
+    "sugar": 3.4,
+    "sodium": 490,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 60, "Medium": 110, "Large": 180 },
+    "recommendations": [
+      "Refined flour flatbread brushed with butter.",
+      "High in simple carbohydrates and fats. Limit consumption.",
+      "Pair with high protein curries."
+    ]
+  },
+  "paratha": {
+    "name": "Plain Laccha Paratha",
+    "calories_per_100g": 326,
+    "protein": 7.0,
+    "carbs": 48.0,
+    "fat": 11.8,
+    "fiber": 2.5,
+    "sugar": 1.5,
+    "sodium": 380,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 60, "Medium": 110, "Large": 180 },
+    "recommendations": [
+      "Layered Indian flatbread cooked with oil or ghee.",
+      "Higher in calories than roti due to pan frying.",
+      "Good for active days but moderate your portion sizes."
+    ]
+  },
+  "aloo paratha": {
+    "name": "Aloo Paratha",
+    "calories_per_100g": 210,
+    "protein": 4.5,
+    "carbs": 33.0,
+    "fat": 7.0,
+    "fiber": 3.5,
+    "sugar": 1.8,
+    "sodium": 420,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Potato-stuffed flatbread. Heavy carb-dense meal.",
+      "Usually served with butter or pickle which adds sodium and fat.",
+      "Good for pre-workout energy, watch portion sizes."
+    ]
+  },
+  "paneer butter masala": {
+    "name": "Paneer Butter Masala",
+    "calories_per_100g": 229,
+    "protein": 9.8,
+    "carbs": 6.5,
+    "fat": 18.2,
+    "fiber": 1.4,
+    "sugar": 2.2,
+    "sodium": 490,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 380 },
+    "recommendations": [
+      "Rich paneer dish cooked in butter and cream tomato gravy.",
+      "Excellent calcium source but very high in fats and calories.",
+      "Manage portion sizes strictly."
+    ]
+  },
+  "butter chicken": {
+    "name": "Butter Chicken",
+    "calories_per_100g": 215,
+    "protein": 14.5,
+    "carbs": 5.2,
+    "fat": 15.0,
+    "fiber": 0.8,
+    "sugar": 3.1,
+    "sodium": 520,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 380 },
+    "recommendations": [
+      "Indian classic containing grilled chicken in a creamy butter sauce.",
+      "High in proteins but also high in saturated fats and sodium.",
+      "Reserve as an occasional treat."
+    ]
+  },
+  "palak paneer": {
+    "name": "Palak Paneer",
+    "calories_per_100g": 140,
+    "protein": 7.5,
+    "carbs": 3.8,
+    "fat": 10.8,
+    "fiber": 2.2,
+    "sugar": 1.0,
+    "sodium": 360,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 380 },
+    "recommendations": [
+      "Healthy paneer cubes cooked in a spinach puree gravy.",
+      "Rich in iron, vitamins, calcium, and dietary protein.",
+      "Considered one of the healthiest vegetarian Indian dishes."
+    ]
+  },
+  "dosa": {
+    "name": "Masala Dosa",
+    "calories_per_100g": 168,
+    "protein": 3.9,
+    "carbs": 29.0,
+    "fat": 4.2,
+    "fiber": 2.1,
+    "sugar": 1.1,
+    "sodium": 290,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Crispy fermented rice-lentil crepe stuffed with potato masala.",
+      "Contains gut-friendly probiotics from fermentation.",
+      "Limit oil brushing to make it healthier."
+    ]
+  },
+  "idli": {
+    "name": "Steamed Idli",
+    "calories_per_100g": 104,
+    "protein": 3.2,
+    "carbs": 22.0,
+    "fat": 0.3,
+    "fiber": 1.5,
+    "sugar": 0.5,
+    "sodium": 180,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 240 },
+    "recommendations": [
+      "Steamed rice-lentil cakes, extremely low in fat.",
+      "Easily digestible, gut-friendly breakfast choice.",
+      "Serve with healthy lentil sambar."
+    ]
+  },
+  "sambar": {
+    "name": "Sambar",
+    "calories_per_100g": 65,
+    "protein": 2.4,
+    "carbs": 9.8,
+    "fat": 1.8,
+    "fiber": 2.5,
+    "sugar": 2.1,
+    "sodium": 340,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 320 },
+    "recommendations": [
+      "Vegetable-lentil broth, high in vitamins and fiber.",
+      "Low in calories, perfect companion for idli or dosa.",
+      "Watch sodium levels."
+    ]
+  },
+  "poha": {
+    "name": "Poha",
+    "calories_per_100g": 180,
+    "protein": 3.5,
+    "carbs": 32.5,
+    "fat": 3.8,
+    "fiber": 1.8,
+    "sugar": 1.4,
+    "sodium": 280,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Flattened rice flakes cooked with spices, onions, and peanuts.",
+      "Light breakfast option supplying clean carbohydrates.",
+      "Peanuts add healthy proteins and fats."
+    ]
+  },
+  "upma": {
+    "name": "Upma",
+    "calories_per_100g": 152,
+    "protein": 3.8,
+    "carbs": 26.8,
+    "fat": 3.2,
+    "fiber": 2.0,
+    "sugar": 1.2,
+    "sodium": 310,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Semolina porridge cooked with mild spices and vegetables.",
+      "Good quick source of energy.",
+      "Add carrots and peas to increase nutritional value."
+    ]
+  },
+  "vada pav": {
+    "name": "Vada Pav",
+    "calories_per_100g": 290,
+    "protein": 5.4,
+    "carbs": 44.0,
+    "fat": 10.2,
+    "fiber": 2.8,
+    "sugar": 2.5,
+    "sodium": 490,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 90, "Medium": 150, "Large": 220 },
+    "recommendations": [
+      "Mumbai street burger with a deep-fried potato dumpling in bread.",
+      "High in carbs, fat, and sodium. Fast energy, but poor satiety.",
+      "Eat occasionally as a cheat meal."
+    ]
+  },
+  "pav bhaji": {
+    "name": "Pav Bhaji",
+    "calories_per_100g": 185,
+    "protein": 3.8,
+    "carbs": 26.5,
+    "fat": 7.2,
+    "fiber": 3.1,
+    "sugar": 3.4,
+    "sodium": 520,
+    "category": "Indian Foods",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 380 },
+    "recommendations": [
+      "Mashed vegetable curry served with toasted butter buns.",
+      "Bhaji has good vegetable density, but butter on Pav increases fat.",
+      "Try wheat buns toasted with minimal butter to cut fats."
+    ]
+  },
+  "burger": {
+    "name": "Chicken Burger",
+    "calories_per_100g": 280,
+    "protein": 14.2,
+    "carbs": 28.0,
+    "fat": 12.0,
+    "fiber": 1.2,
+    "sugar": 4.5,
+    "sodium": 580,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 320 },
+    "recommendations": [
+      "Moderate protein source; check mayo and sauce layers.",
+      "High in sodium and refined flour carbs.",
+      "Swap side fries for water or salads."
+    ]
+  },
+  "cheeseburger": {
+    "name": "Classic Cheeseburger",
+    "calories_per_100g": 295,
+    "protein": 15.0,
+    "carbs": 27.5,
+    "fat": 14.2,
+    "fiber": 1.5,
+    "sugar": 5.2,
+    "sodium": 610,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 320 },
+    "recommendations": [
+      "Excellent protein source, but high in cholesterol and sodium.",
+      "Calorie-dense; manage portion sizes carefully.",
+      "Swap side fries for salads or water."
+    ]
+  },
+  "pizza": {
+    "name": "Cheese Pizza",
+    "calories_per_100g": 266,
+    "protein": 11.4,
+    "carbs": 33.3,
+    "fat": 9.8,
+    "fiber": 2.3,
+    "sugar": 3.6,
+    "sodium": 556,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "High in saturated fats and sodium; consume in moderation.",
+      "Include a side salad to increase dietary fiber intake.",
+      "Opt for thin crust and load up on veggies to lower calories."
+    ]
+  },
+  "pasta": {
+    "name": "Vegetable Pasta",
+    "calories_per_100g": 131,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fat": 1.1,
+    "fiber": 1.8,
+    "sugar": 1.5,
+    "sodium": 140,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Good source of energy from carbohydrates.",
+      "Load up on vegetables like zucchini and tomatoes to add fiber and vitamins.",
+      "Use olive oil sparingly to keep fat counts low."
+    ]
+  },
+  "spaghetti": {
+    "name": "Spaghetti Bolognese",
+    "calories_per_100g": 145,
+    "protein": 7.2,
+    "carbs": 22.0,
+    "fat": 3.8,
+    "fiber": 1.5,
+    "sugar": 2.1,
+    "sodium": 280,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Rich source of protein and complex carbohydrates.",
+      "Opt for whole wheat pasta to double the fiber content.",
+      "Top with fresh basil and minimal cheese."
+    ]
+  },
+  "french fries": {
+    "name": "Golden French Fries",
+    "calories_per_100g": 312,
+    "protein": 3.4,
+    "carbs": 41.0,
+    "fat": 15.0,
+    "fiber": 3.8,
+    "sugar": 0.3,
+    "sodium": 210,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Deep-fried; high in processed fats and sodium.",
+      "Low satiety despite high calories.",
+      "Enjoy occasionally, choose baked potato wedges if possible."
+    ]
+  },
+  "hot dog": {
+    "name": "Classic Hot Dog",
+    "calories_per_100g": 290,
+    "protein": 10.4,
+    "carbs": 18.0,
+    "fat": 19.5,
+    "fiber": 0.8,
+    "sugar": 2.2,
+    "sodium": 680,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 80, "Medium": 130, "Large": 190 },
+    "recommendations": [
+      "Processed meat high in sodium and saturated fats.",
+      "Low nutrient density.",
+      "Eat occasionally; garnish with mustard rather than mayo."
+    ]
+  },
+  "sandwich": {
+    "name": "Veggie Club Sandwich",
+    "calories_per_100g": 220,
+    "protein": 12.5,
+    "carbs": 22.0,
+    "fat": 8.8,
+    "fiber": 2.1,
+    "sugar": 2.4,
+    "sodium": 480,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 380 },
+    "recommendations": [
+      "Moderate proteins; good mid-day meal option.",
+      "Choose multi-grain bread to increase dietary fiber.",
+      "Limit high-calorie sauces and mayonnaise."
+    ]
+  },
+  "shawarma": {
+    "name": "Chicken Shawarma Wrap",
+    "calories_per_100g": 230,
+    "protein": 15.8,
+    "carbs": 18.5,
+    "fat": 10.2,
+    "fiber": 1.8,
+    "sugar": 1.5,
+    "sodium": 510,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 180, "Medium": 280, "Large": 400 },
+    "recommendations": [
+      "High-protein street food wrap.",
+      "Mayonnaise and garlic sauces add significant fats.",
+      "Opt for whole-wheat wrap and loaded salad vegetables."
+    ]
+  },
+  "wrap": {
+    "name": "Grilled Chicken Wrap",
+    "calories_per_100g": 210,
+    "protein": 14.8,
+    "carbs": 21.2,
+    "fat": 7.5,
+    "fiber": 2.2,
+    "sugar": 1.8,
+    "sodium": 490,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 380 },
+    "recommendations": [
+      "Excellent balanced meal option.",
+      "Rich in proteins and low in saturated fats compared to burgers.",
+      "Choose low-fat dressings."
+    ]
+  },
+  "taco": {
+    "name": "Beef Taco",
+    "calories_per_100g": 226,
+    "protein": 13.0,
+    "carbs": 19.5,
+    "fat": 11.2,
+    "fiber": 2.8,
+    "sugar": 1.2,
+    "sodium": 390,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 220 },
+    "recommendations": [
+      "Tasty protein-carb balance.",
+      "Toppings like cheese and sour cream increase fats.",
+      "Load up on pico de gallo and lettuce."
+    ]
+  },
+  "burrito": {
+    "name": "Chicken Burrito",
+    "calories_per_100g": 206,
+    "protein": 10.5,
+    "carbs": 24.5,
+    "fat": 7.8,
+    "fiber": 3.2,
+    "sugar": 1.4,
+    "sodium": 480,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 200, "Medium": 350, "Large": 500 },
+    "recommendations": [
+      "Very filling meal containing beans, rice, and proteins.",
+      "Can be calorie-dense; watch wrap size.",
+      "Swap white rice with brown rice or black beans for better fiber."
+    ]
+  },
+  "fried chicken": {
+    "name": "Crispy Fried Chicken",
+    "calories_per_100g": 289,
+    "protein": 21.0,
+    "carbs": 8.5,
+    "fat": 19.2,
+    "fiber": 0.5,
+    "sugar": 0.1,
+    "sodium": 620,
+    "category": "Fast Food",
+    "portionSizes": { "Small": 120, "Medium": 220, "Large": 350 },
+    "recommendations": [
+      "Deep-fried and breaded. Very high in fats and sodium.",
+      "Good protein source, but outweighed by the calorie density.",
+      "Remove batter coating if eating to cut down on oils."
+    ]
+  },
+  "apple": {
+    "name": "Fresh Apple",
+    "calories_per_100g": 52,
+    "protein": 0.3,
+    "carbs": 14.0,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "sugar": 10.0,
+    "sodium": 1,
+    "category": "Fruits",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 250 },
+    "recommendations": [
+      "Highly nutritional fruit loaded with antioxidants.",
+      "Contains soluble fiber pectin that aids cholesterol control.",
+      "Excellent low-calorie snack for curbing sugar cravings."
+    ]
+  },
+  "banana": {
+    "name": "Fresh Banana",
+    "calories_per_100g": 89,
+    "protein": 1.1,
+    "carbs": 22.8,
+    "fat": 0.3,
+    "fiber": 2.6,
+    "sugar": 12.2,
+    "sodium": 1,
+    "category": "Fruits",
+    "portionSizes": { "Small": 80, "Medium": 120, "Large": 180 },
+    "recommendations": [
+      "Outstanding source of potassium and instant carb energy.",
+      "Perfect pre- or post-workout quick snack.",
+      "Helps regulate muscle cramps and heartbeat."
+    ]
+  },
+  "mango": {
+    "name": "Ripe Mango",
+    "calories_per_100g": 60,
+    "protein": 0.8,
+    "carbs": 15.0,
+    "fat": 0.4,
+    "fiber": 1.6,
+    "sugar": 13.7,
+    "sodium": 1,
+    "category": "Fruits",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Delicious tropical fruit high in vitamin A and C.",
+      "Slightly higher sugar density than berries; manage portions.",
+      "Excellent raw or in morning smoothies."
+    ]
+  },
+  "orange": {
+    "name": "Orange",
+    "calories_per_100g": 47,
+    "protein": 0.9,
+    "carbs": 11.8,
+    "fat": 0.1,
+    "fiber": 2.4,
+    "sugar": 9.4,
+    "sodium": 0,
+    "category": "Fruits",
+    "portionSizes": { "Small": 100, "Medium": 150, "Large": 220 },
+    "recommendations": [
+      "Superb source of Vitamin C and hydration.",
+      "Contains dietary fiber which helps digestion.",
+      "Prefer whole fruit over juicing to retain fibers."
+    ]
+  },
+  "pineapple": {
+    "name": "Pineapple",
+    "calories_per_100g": 50,
+    "protein": 0.5,
+    "carbs": 13.1,
+    "fat": 0.1,
+    "fiber": 1.4,
+    "sugar": 9.9,
+    "sodium": 1,
+    "category": "Fruits",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Contains bromelain, a digestive enzyme that breaks down proteins.",
+      "Boasts anti-inflammatory properties.",
+      "High in vitamin C."
+    ]
+  },
+  "watermelon": {
+    "name": "Watermelon",
+    "calories_per_100g": 30,
+    "protein": 0.6,
+    "carbs": 7.6,
+    "fat": 0.2,
+    "fiber": 0.4,
+    "sugar": 6.2,
+    "sodium": 1,
+    "category": "Fruits",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 400 },
+    "recommendations": [
+      "Extremely hydrating (92% water) and very low calorie.",
+      "Contains lycopene, a powerful antioxidant.",
+      "Great for hot summer days and post-workout rehydration."
+    ]
+  },
+  "grapes": {
+    "name": "Grapes",
+    "calories_per_100g": 69,
+    "protein": 0.7,
+    "carbs": 18.1,
+    "fat": 0.2,
+    "fiber": 0.9,
+    "sugar": 15.5,
+    "sodium": 2,
+    "category": "Fruits",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "High in resveratrol, which supports cardiovascular safety.",
+      "Relatively high sugar concentration; eat in moderation.",
+      "Excellent cold snack choice."
+    ]
+  },
+  "strawberry": {
+    "name": "Strawberry",
+    "calories_per_100g": 32,
+    "protein": 0.7,
+    "carbs": 7.7,
+    "fat": 0.3,
+    "fiber": 2.0,
+    "sugar": 4.9,
+    "sodium": 1,
+    "category": "Fruits",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Extremely low calorie and packed with antioxidants.",
+      "Great choice for satisfying a sweet tooth on cutting diets.",
+      "Very high in Vitamin C."
+    ]
+  },
+  "kiwi": {
+    "name": "Kiwi Fruit",
+    "calories_per_100g": 61,
+    "protein": 1.1,
+    "carbs": 14.7,
+    "fat": 0.5,
+    "fiber": 3.0,
+    "sugar": 9.0,
+    "sodium": 3,
+    "category": "Fruits",
+    "portionSizes": { "Small": 70, "Medium": 140, "Large": 210 },
+    "recommendations": [
+      "Very high concentration of Vitamin C and Vitamin K.",
+      "Dietary fiber supports regular digestion.",
+      "Contains actinidain, a protein-dissolving enzyme."
+    ]
+  },
+  "papaya": {
+    "name": "Fresh Papaya",
+    "calories_per_100g": 43,
+    "protein": 0.5,
+    "carbs": 11.0,
+    "fat": 0.3,
+    "fiber": 1.7,
+    "sugar": 7.8,
+    "sodium": 8,
+    "category": "Fruits",
+    "portionSizes": { "Small": 120, "Medium": 200, "Large": 320 },
+    "recommendations": [
+      "Contains papain, which eases gastrointestinal digestion.",
+      "Rich in beta-carotene and vitamin C.",
+      "Outstanding low-calorie fruit choice."
+    ]
+  },
+  "guava": {
+    "name": "Fresh Guava",
+    "calories_per_100g": 68,
+    "protein": 2.6,
+    "carbs": 14.3,
+    "fat": 1.0,
+    "fiber": 5.4,
+    "sugar": 8.9,
+    "sodium": 2,
+    "category": "Fruits",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "Incredibly high in fiber (5.4g per 100g).",
+      "Contains more Vitamin C than oranges.",
+      "Maintains excellent blood pressure control."
+    ]
+  },
+  "potato": {
+    "name": "Boiled Potato",
+    "calories_per_100g": 87,
+    "protein": 2.0,
+    "carbs": 20.0,
+    "fat": 0.1,
+    "fiber": 1.8,
+    "sugar": 0.8,
+    "sodium": 4,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 100, "Medium": 180, "Large": 280 },
+    "recommendations": [
+      "High in potassium and complex carbohydrates.",
+      "Extremely high satiety index.",
+      "Eat skin to retain optimal fiber; avoid frying."
+    ]
+  },
+  "tomato": {
+    "name": "Red Tomato",
+    "calories_per_100g": 18,
+    "protein": 0.9,
+    "carbs": 3.9,
+    "fat": 0.2,
+    "fiber": 1.2,
+    "sugar": 2.6,
+    "sodium": 5,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 60, "Medium": 120, "Large": 200 },
+    "recommendations": [
+      "Extremely low calorie; excellent source of lycopene.",
+      "Supports skin health and cellular protection.",
+      "Great base for healthy low-fat gravies."
+    ]
+  },
+  "onion": {
+    "name": "Onion",
+    "calories_per_100g": 40,
+    "protein": 1.1,
+    "carbs": 9.3,
+    "fat": 0.1,
+    "fiber": 1.7,
+    "sugar": 4.2,
+    "sodium": 4,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 50, "Medium": 100, "Large": 180 },
+    "recommendations": [
+      "Contains prebiotic fibers that nourish gut bacteria.",
+      "Rich in organosulfur compounds.",
+      "Adds rich flavor to cooking without adding fats."
+    ]
+  },
+  "carrot": {
+    "name": "Orange Carrot",
+    "calories_per_100g": 41,
+    "protein": 0.9,
+    "carbs": 9.6,
+    "fat": 0.2,
+    "fiber": 2.8,
+    "sugar": 4.7,
+    "sodium": 69,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 220 },
+    "recommendations": [
+      "Outstanding source of beta-carotene (Vitamin A).",
+      "Promotes eye safety and cellular repair.",
+      "Low-calorie sweet crunching snack."
+    ]
+  },
+  "broccoli": {
+    "name": "Broccoli",
+    "calories_per_100g": 34,
+    "protein": 2.8,
+    "carbs": 6.6,
+    "fat": 0.4,
+    "fiber": 2.6,
+    "sugar": 1.7,
+    "sodium": 33,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Contains sulforaphane, a powerful compound.",
+      "Rich in calcium, fiber, and Vitamin C.",
+      "Highly recommended food for fat loss and detox."
+    ]
+  },
+  "cabbage": {
+    "name": "Green Cabbage",
+    "calories_per_100g": 25,
+    "protein": 1.3,
+    "carbs": 5.8,
+    "fat": 0.1,
+    "fiber": 2.5,
+    "sugar": 3.2,
+    "sodium": 18,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Very low calorie density; aids in stomach lining protection.",
+      "High in vitamin K and vitamin C.",
+      "Great volume food for volume eating."
+    ]
+  },
+  "spinach": {
+    "name": "Fresh Spinach",
+    "calories_per_100g": 23,
+    "protein": 2.9,
+    "carbs": 3.6,
+    "fat": 0.4,
+    "fiber": 2.2,
+    "sugar": 0.4,
+    "sodium": 79,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Extremely nutrient dense; high in iron, lutein, and calcium.",
+      "Low in calories, promotes cardiovascular health.",
+      "Avoid boiling to retain water-soluble nutrients."
+    ]
+  },
+  "cauliflower": {
+    "name": "Cauliflower",
+    "calories_per_100g": 25,
+    "protein": 1.9,
+    "carbs": 5.0,
+    "fat": 0.3,
+    "fiber": 2.0,
+    "sugar": 1.9,
+    "sodium": 30,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 250 },
+    "recommendations": [
+      "Low-carb substitute for grains (e.g. cauliflower rice).",
+      "Contains choline, which supports brain health.",
+      "Rich in vitamins C and K."
+    ]
+  },
+  "capsicum": {
+    "name": "Bell Pepper (Capsicum)",
+    "calories_per_100g": 20,
+    "protein": 0.9,
+    "carbs": 4.6,
+    "fat": 0.2,
+    "fiber": 1.7,
+    "sugar": 2.4,
+    "sodium": 3,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 80, "Medium": 150, "Large": 220 },
+    "recommendations": [
+      "Excellent vitamin C source.",
+      "Low calorie and highly hydrating.",
+      "Adds rich texture and color to healthy meals."
+    ]
+  },
+  "peas": {
+    "name": "Green Peas",
+    "calories_per_100g": 81,
+    "protein": 5.4,
+    "carbs": 14.4,
+    "fat": 0.4,
+    "fiber": 5.7,
+    "sugar": 5.7,
+    "sodium": 3,
+    "category": "Vegetables",
+    "portionSizes": { "Small": 60, "Medium": 120, "Large": 200 },
+    "recommendations": [
+      "Relatively high protein count compared to other vegetables.",
+      "High in fiber; promotes stable blood glucose.",
+      "Pairs well with rice and curries."
+    ]
+  },
+  "gulab jamun": {
+    "name": "Gulab Jamun",
+    "calories_per_100g": 380,
+    "protein": 4.8,
+    "carbs": 58.2,
+    "fat": 14.0,
+    "fiber": 0.2,
+    "sugar": 48.0,
+    "sodium": 120,
+    "category": "Desserts",
+    "portionSizes": { "Small": 50, "Medium": 100, "Large": 180 },
+    "recommendations": [
+      "Deep fried dough balls soaked in high sugar syrup.",
+      "Extremely high in simple sugars and saturated fats. Limit strictly.",
+      "Triggers quick insulin spikes."
+    ]
+  },
+  "rasgulla": {
+    "name": "Rasgulla",
+    "calories_per_100g": 186,
+    "protein": 4.0,
+    "carbs": 38.0,
+    "fat": 1.8,
+    "fiber": 0,
+    "sugar": 35.0,
+    "sodium": 80,
+    "category": "Desserts",
+    "portionSizes": { "Small": 50, "Medium": 100, "Large": 180 },
+    "recommendations": [
+      "Indian cheese sweet soaked in sugar syrup.",
+      "Lower in fat than gulab jamun but still very high in sugars.",
+      "Squeeze out syrup before eating to lower calorie intake."
+    ]
+  },
+  "ice cream": {
+    "name": "Vanilla Ice Cream",
+    "calories_per_100g": 207,
+    "protein": 3.5,
+    "carbs": 23.6,
+    "fat": 11.0,
+    "fiber": 0.7,
+    "sugar": 21.0,
+    "sodium": 80,
+    "category": "Desserts",
+    "portionSizes": { "Small": 80, "Medium": 130, "Large": 200 },
+    "recommendations": [
+      "High in sugar and dairy cream fats.",
+      "Provides quick energy but low satiety.",
+      "Try frozen yogurt or fruit sorbet alternatives."
+    ]
+  },
+  "brownie": {
+    "name": "Chocolate Brownie",
+    "calories_per_100g": 466,
+    "protein": 4.8,
+    "carbs": 60.5,
+    "fat": 22.8,
+    "fiber": 2.8,
+    "sugar": 41.5,
+    "sodium": 290,
+    "category": "Desserts",
+    "portionSizes": { "Small": 60, "Medium": 100, "Large": 160 },
+    "recommendations": [
+      "Very high in refined sugars and baking butter fats.",
+      "Highly calorie-dense; consume in moderation.",
+      "Serve with fresh berries to add fiber."
+    ]
+  },
+  "cake": {
+    "name": "Chocolate Fudge Cake",
+    "calories_per_100g": 371,
+    "protein": 4.5,
+    "carbs": 53.0,
+    "fat": 16.0,
+    "fiber": 1.8,
+    "sugar": 38.0,
+    "sodium": 290,
+    "category": "Desserts",
+    "portionSizes": { "Small": 80, "Medium": 120, "Large": 200 },
+    "recommendations": [
+      "High simple carbs and butter fat load.",
+      "Triggers rapid blood sugar spike.",
+      "Enjoy occasionally for celebrations."
+    ]
+  },
+  "donut": {
+    "name": "Glazed Donut",
+    "calories_per_100g": 426,
+    "protein": 4.9,
+    "carbs": 51.0,
+    "fat": 22.5,
+    "fiber": 1.5,
+    "sugar": 26.5,
+    "sodium": 310,
+    "category": "Desserts",
+    "portionSizes": { "Small": 50, "Medium": 90, "Large": 140 },
+    "recommendations": [
+      "Deep fried refined dough glazed in sugar.",
+      "High in trans/saturated fats and simple sugars.",
+      "Limit consumption strictly."
+    ]
+  },
+  "chocolate": {
+    "name": "Milk Chocolate Bar",
+    "calories_per_100g": 535,
+    "protein": 7.6,
+    "carbs": 59.4,
+    "fat": 29.7,
+    "fiber": 3.4,
+    "sugar": 51.5,
+    "sodium": 79,
+    "category": "Desserts",
+    "portionSizes": { "Small": 30, "Medium": 60, "Large": 100 },
+    "recommendations": [
+      "Highly calorie dense; high sugars and dairy fats.",
+      "Satisfies quick cravings, but has low volume satiety.",
+      "Prefer 75%+ dark chocolate for antioxidant benefits."
+    ]
+  },
+  "cookies": {
+    "name": "Chocolate Chip Cookies",
+    "calories_per_100g": 488,
+    "protein": 5.4,
+    "carbs": 66.8,
+    "fat": 22.2,
+    "fiber": 2.1,
+    "sugar": 34.0,
+    "sodium": 280,
+    "category": "Desserts",
+    "portionSizes": { "Small": 40, "Medium": 80, "Large": 140 },
+    "recommendations": [
+      "High in refined baking butter and sugars.",
+      "High calorie to weight ratio.",
+      "Drink with water or skim milk."
+    ]
+  },
+  "tea": {
+    "name": "Chai (Milk Tea with Sugar)",
+    "calories_per_100g": 50,
+    "protein": 1.2,
+    "carbs": 7.5,
+    "fat": 1.5,
+    "fiber": 0,
+    "sugar": 7.2,
+    "sodium": 12,
+    "category": "Beverages",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 350 },
+    "recommendations": [
+      "Comforting daily beverage, contains antioxidants from tea leaves.",
+      "Added sugar and whole milk add simple calories.",
+      "Substitute sugar with stevia and use skim milk to cut calories."
+    ]
+  },
+  "coffee": {
+    "name": "Cappuccino (Whole Milk, No Sugar)",
+    "calories_per_100g": 35,
+    "protein": 1.8,
+    "carbs": 2.8,
+    "fat": 1.9,
+    "fiber": 0,
+    "sugar": 2.5,
+    "sodium": 28,
+    "category": "Beverages",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 350 },
+    "recommendations": [
+      "Provides moderate caffeine boost to improve metabolism.",
+      "Avoid adding syrups and sugars to preserve weight loss properties.",
+      "Opt for almond/skim milk options."
+    ]
+  },
+  "milk": {
+    "name": "Whole Milk",
+    "calories_per_100g": 62,
+    "protein": 3.2,
+    "carbs": 4.8,
+    "fat": 3.3,
+    "fiber": 0,
+    "sugar": 4.8,
+    "sodium": 44,
+    "category": "Beverages",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 350 },
+    "recommendations": [
+      "Excellent source of calcium, vitamin D, and proteins.",
+      "Contains saturated dairy fats.",
+      "Consider skimmed or low-fat varieties to save calories."
+    ]
+  },
+  "lassi": {
+    "name": "Sweet Lassi",
+    "calories_per_100g": 90,
+    "protein": 2.4,
+    "carbs": 12.5,
+    "fat": 3.2,
+    "fiber": 0,
+    "sugar": 11.5,
+    "sodium": 35,
+    "category": "Beverages",
+    "portionSizes": { "Small": 180, "Medium": 280, "Large": 400 },
+    "recommendations": [
+      "Traditional Indian yogurt drink; contains gut-friendly probiotics.",
+      "High in simple sugars from flavorings; drink in moderation.",
+      "Choose salted or spice-tempered chaas (buttermilk) to save calories."
+    ]
+  },
+  "coke": {
+    "name": "Coca-Cola Classic",
+    "calories_per_100g": 38,
+    "protein": 0,
+    "carbs": 10.6,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 10.6,
+    "sodium": 4,
+    "category": "Beverages",
+    "portionSizes": { "Small": 150, "Medium": 330, "Large": 500 },
+    "recommendations": [
+      "Zero nutritional value; high in simple refined high-fructose sugars.",
+      "Causes rapid insulin spikes. Leads to fat accumulation.",
+      "Prefer Diet/Zero version or sparkling water."
+    ]
+  },
+  "pepsi": {
+    "name": "Pepsi Cola",
+    "calories_per_100g": 41,
+    "protein": 0,
+    "carbs": 10.9,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 10.9,
+    "sodium": 4,
+    "category": "Beverages",
+    "portionSizes": { "Small": 150, "Medium": 330, "Large": 500 },
+    "recommendations": [
+      "High in liquid sugar calories; zero satiety index.",
+      "Causes rapid glucose spikes and teeth decay.",
+      "Prefer zero sugar alternatives."
+    ]
+  },
+  "juice": {
+    "name": "Fresh Orange Juice",
+    "calories_per_100g": 45,
+    "protein": 0.7,
+    "carbs": 10.4,
+    "fat": 0.2,
+    "fiber": 0.2,
+    "sugar": 8.4,
+    "sodium": 1,
+    "category": "Beverages",
+    "portionSizes": { "Small": 150, "Medium": 250, "Large": 350 },
+    "recommendations": [
+      "Provides vitamin C, but lacks the beneficial fibers of whole oranges.",
+      "Allows fast sugar absorption. Keep portions small.",
+      "Prefer eating whole fruits to maintain proper satiety."
+    ]
+  },
+  "smoothie": {
+    "name": "Banana Strawberry Smoothie",
+    "calories_per_100g": 72,
+    "protein": 1.5,
+    "carbs": 14.8,
+    "fat": 0.8,
+    "fiber": 1.8,
+    "sugar": 11.2,
+    "sodium": 15,
+    "category": "Beverages",
+    "portionSizes": { "Small": 180, "Medium": 300, "Large": 450 },
+    "recommendations": [
+      "Filling and packed with fruit vitamins and dietary fibers.",
+      "Watch high-calorie additions like peanut butter, honey, or protein powders.",
+      "Great choice for post-workout nutrition."
+    ]
+  }
+}
