@@ -146,3 +146,4 @@ Open `http://localhost:3000` in your web browser to test the full-stack system!
    - `MONGODB_URI`: Insert your MongoDB Atlas Connection String.
    - `NODE_ENV`: `production`
 # -NutriVision-AI  
+# -NutriVision-AI  
